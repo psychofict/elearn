@@ -2,7 +2,7 @@
 
 **E-learning platform for African high school students preparing for O Level and A Level examinations.**
 
-Built as a flagship product at GliTech to make quality exam preparation accessible to students across Africa.
+Built to make quality exam preparation accessible to students across Africa.
 
 ## Features
 
