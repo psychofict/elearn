@@ -1,12 +1,12 @@
 # eLearn
 
-**E-learning platform for Zimbabwean high school students preparing for ZIMSEC O Level and A Level examinations.**
+**E-learning platform for African high school students preparing for O Level and A Level examinations.**
 
-Built as a flagship product at GliTech to make quality exam preparation accessible to students across Zimbabwe.
+Built as a flagship product at GliTech to make quality exam preparation accessible to students across Africa.
 
 ## Features
 
-- **Structured Curriculum** — 20+ subjects across O Level and A Level, with 70+ detailed lessons aligned to the ZIMSEC syllabus
+- **Structured Curriculum** — 20+ subjects across O Level and A Level, with 70+ detailed lessons aligned to national syllabi
 - **Progress Tracking** — Lesson completion tracking, study streaks, and per-subject progress percentages
 - **Learning Analytics** — Dashboard with daily activity, total study time, streak metrics, and subject-by-subject breakdowns
 - **Personalized Settings** — Level preference (O Level / A Level / Both), font size, notification preferences
@@ -64,4 +64,4 @@ elearn/
 
 ## Context
 
-All curriculum content is tailored to the Zimbabwe School Examinations Council (ZIMSEC) standards, with locally relevant examples and references throughout lessons.
+Curriculum content is tailored to African examination standards, with locally relevant examples and references throughout lessons.
